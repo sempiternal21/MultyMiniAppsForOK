@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1FFFC0B0-B374-4688-9797-E9E2E7CF7CED"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "661986E5-2660-4D4A-9A71-39CAF90A540F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MultyMiniAppsForOK/MiniApps/Joke/JokeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "loadView()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "661986E5-2660-4D4A-9A71-39CAF90A540F - aec8e7078b147138"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MultyMiniAppsForOK.JokeViewController.loadView() -&gt; ()"
+                  moduleName = "MultyMiniAppsForOK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/d.i.antonov/Desktop/MultyMiniAppsForOK/MultyMiniAppsForOK/MiniApps/Joke/JokeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "661986E5-2660-4D4A-9A71-39CAF90A540F - aec8e7078b147138"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MultyMiniAppsForOK.JokeViewController.loadView() -&gt; ()"
+                  moduleName = "MultyMiniAppsForOK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/d.i.antonov/Desktop/MultyMiniAppsForOK/MultyMiniAppsForOK/MiniApps/Joke/JokeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E847769C-32C0-4BDF-9AF7-B149AFB16C70"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MultyMiniAppsForOK/MiniApps/Joke/JokeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E847769C-32C0-4BDF-9AF7-B149AFB16C70 - beb000835a6ae171"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MultyMiniAppsForOK.JokeViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "MultyMiniAppsForOK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/d.i.antonov/Desktop/MultyMiniAppsForOK/MultyMiniAppsForOK/MiniApps/Joke/JokeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "E847769C-32C0-4BDF-9AF7-B149AFB16C70 - beb000835a6ae152"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MultyMiniAppsForOK.JokeViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "MultyMiniAppsForOK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/d.i.antonov/Desktop/MultyMiniAppsForOK/MultyMiniAppsForOK/MiniApps/Joke/JokeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7660A0DB-0ADC-4428-99AA-A1A5C203A1B1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MultyMiniAppsForOK/MiniApps/Joke/JokeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7660A0DB-0ADC-4428-99AA-A1A5C203A1B1 - beb000835a6ae133"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MultyMiniAppsForOK.JokeViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "MultyMiniAppsForOK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/d.i.antonov/Desktop/MultyMiniAppsForOK/MultyMiniAppsForOK/MiniApps/Joke/JokeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "7660A0DB-0ADC-4428-99AA-A1A5C203A1B1 - 3690c1a62f7e78d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () async -&gt; () in MultyMiniAppsForOK.JokeViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "MultyMiniAppsForOK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/d.i.antonov/Desktop/MultyMiniAppsForOK/MultyMiniAppsForOK/MiniApps/Joke/JokeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "7660A0DB-0ADC-4428-99AA-A1A5C203A1B1 - e1b9896d0d3f2dac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in MultyMiniAppsForOK.JokeViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "MultyMiniAppsForOK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/d.i.antonov/Desktop/MultyMiniAppsForOK/MultyMiniAppsForOK/MiniApps/Joke/JokeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "7660A0DB-0ADC-4428-99AA-A1A5C203A1B1 - beb000835a6ae10c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MultyMiniAppsForOK.JokeViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "MultyMiniAppsForOK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/d.i.antonov/Desktop/MultyMiniAppsForOK/MultyMiniAppsForOK/MiniApps/Joke/JokeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "7660A0DB-0ADC-4428-99AA-A1A5C203A1B1 - 3690c1a62f7e78e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () async -&gt; () in MultyMiniAppsForOK.JokeViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "MultyMiniAppsForOK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/d.i.antonov/Desktop/MultyMiniAppsForOK/MultyMiniAppsForOK/MiniApps/Joke/JokeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "7660A0DB-0ADC-4428-99AA-A1A5C203A1B1 - e1b9896d0d3f2d93"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in MultyMiniAppsForOK.JokeViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "MultyMiniAppsForOK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/d.i.antonov/Desktop/MultyMiniAppsForOK/MultyMiniAppsForOK/MiniApps/Joke/JokeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
